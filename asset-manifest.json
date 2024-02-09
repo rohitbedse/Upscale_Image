@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Upscale_Image/static/css/main.6ee6e614.css",
+    "main.js": "/Upscale_Image/static/js/main.45217c49.js",
+    "index.html": "/Upscale_Image/index.html",
+    "main.6ee6e614.css.map": "/Upscale_Image/static/css/main.6ee6e614.css.map",
+    "main.45217c49.js.map": "/Upscale_Image/static/js/main.45217c49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee6e614.css",
+    "static/js/main.45217c49.js"
+  ]
+}
